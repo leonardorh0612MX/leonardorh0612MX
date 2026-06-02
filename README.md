@@ -1,4 +1,4 @@
-# Hey, I'm Leo 👋
+# Hey, I'm Leo!
 
 > *Consultant. Builder. Problem-solver.*  
 > I turn complexity into working systems — and I enjoy every step of the way.
@@ -41,7 +41,7 @@ I believe the best solution is the one that actually gets used. I ask questions,
 | Area | Tools |
 |------|-------|
 | Languages | `C#` `.NET` `Python` `JavaScript` |
-| Document Management | `M-Files` `M-Files API` |
+| Document Management | `M-Files` `Sharepoint` |
 | Automation | `n8n` `Power Automate` `Power Platform` |
 | ERP | `Odoo` |
 | Other | `REST APIs` `SQL` `XML/QWeb` |
