@@ -1,38 +1,47 @@
-# Hey, I'm Leo!
+# Hey, I'm Leo! 🔥
 
-> *Consultant. Builder. Problem-solver.*  
-> I turn complexity into working systems — and I enjoy every step of the way.
+> *Consultant. Builder. Problem-solver. Homelab enthusiast.*
+
+📝 **Follow my journey → [leobunker.dev](https://leobunker.dev)**
 
 ---
 
 ## 🧭 What I Do
 
-I'm a **digital transformation consultant** focused on helping businesses move smarter, automate better, and manage their operations with precision.
+I'm a **Nanotechnology Engineer** from Guadalajara, México — turned digital transformation consultant and developer.
 
-My work lives at the intersection of **document intelligence**, **automation**, and **enterprise systems**.
+My work lives at the intersection of **document intelligence**, **automation**, **enterprise systems** and increasingly, **cloud infrastructure and self-hosted tech**.
+
+By day I consult at **HIX S.A. de C.V.** implementing enterprise document management with M-Files and C#.
+I also run **[Claryon](https://claryon.mx)** — my own digital transformation company helping SMBs adopt real technology.
 
 ---
 
 ## 🛠️ Where I Specialize
 
 ### 📄 M-Files — Document Control & Compliance
-I build custom solutions in **C#** for M-Files, including metadata-driven workflows, compliance kit configurations, vault integrations, and automation scripts. If your documents need to be under control, that's my territory.
+Custom solutions in **C#** for M-Files: metadata-driven workflows, compliance kit configurations, vault integrations and automation scripts.
 
 ### ⚡ Automation & Digital Workflows
-I design and implement automation pipelines using **n8n** and the **Microsoft Power Platform** (Power Automate, Power Apps, Power BI). I connect systems, eliminate manual work, and make processes actually flow.
+Automation pipelines using **n8n** and the **Microsoft Power Platform**. I connect systems, eliminate manual work and make processes actually flow.
 
 ### 🏢 ERP Implementations — Odoo
-Full-cycle **Odoo** ERP implementations: from requirements gathering and configuration to go-live. I've covered accounting, inventory, sales, production, and more — tailored to each client's reality.
+Full-cycle **Odoo** ERP implementations: from requirements gathering and configuration to go-live. Accounting, inventory, sales, production and more.
+
+### 🤖 AI Agents & LLM Integrations
+Building AI-powered automations using **Claude Code**, LLM APIs and custom agents as part of my daily workflow. If it can be automated intelligently, I'll find a way.
+
+### 🖥️ Homelab & Infrastructure *(in progress)*
+Self-hosting everything I can. Running Linux servers, Nginx, Cloudflare Tunnels, Ghost, MySQL and working toward **Kubernetes** on my own hardware.
 
 ---
 
 ## 🧠 How I Think
 
-I believe the best solution is the one that actually gets used. I ask questions, dig into the real problem, and build things that stick.
-
-- I like learning — seriously, I can't stop
+- I learn by doing — seriously, I can't stop breaking things to understand them
 - I like finding the solution — especially when it isn't obvious
 - I like when technology removes friction from people's work
+- I document everything — because future-me will thank present-me
 
 ---
 
@@ -41,19 +50,30 @@ I believe the best solution is the one that actually gets used. I ask questions,
 | Area | Tools |
 |------|-------|
 | Languages | `C#` `.NET` `Python` `JavaScript` |
-| Document Management | `M-Files` `Sharepoint` |
+| Document Management | `M-Files` `SharePoint` |
 | Automation | `n8n` `Power Automate` `Power Platform` |
 | ERP | `Odoo` |
-| Other | `REST APIs` `SQL` `XML/QWeb` |
+| Infrastructure | `Linux` `Nginx` `Docker` `Cloudflare` |
+| Cloud | `Azure` *(AZ-104 incoming)* |
+| Containers | `Kubernetes` *(CKA incoming)* |
+| AI & Agents | `Claude Code` `REST APIs` `LLMs` |
+| Other | `SQL` `XML/QWeb` `Git` |
+
+---
+
+## 📜 Certifications
+
+- ✅ **PMP** — Project Management Professional
+- 🔄 **CKA** — Certified Kubernetes Administrator *(in progress)*
+- 🔄 **AZ-104** — Microsoft Azure Administrator *(in progress)*
 
 ---
 
 ## 📬 Let's Talk
 
-Got a system that needs untangling? A process that needs automating? A document management headache?
-
-I'm happy to help figure it out.
+- 📝 [leobunker.dev](https://leobunker.dev)
+- 💼 [claryon.mx](https://claryon.mx)
 
 ---
 
-*Built with curiosity. Deployed with intention.*
+*Built with curiosity. Deployed with intention. Running on my own server.*
