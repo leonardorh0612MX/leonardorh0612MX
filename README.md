@@ -49,7 +49,7 @@ Self-hosting everything I can. Running Linux servers, Nginx, Cloudflare Tunnels,
 
 | Area | Tools |
 |------|-------|
-| Languages | `C#` `.NET` `Python` `JavaScript` |
+| Languages | `Python` `JavaScript` `Go` |
 | Document Management | `M-Files` `SharePoint` |
 | Automation | `n8n` `Power Automate` `Power Platform` |
 | ERP | `Odoo` |
